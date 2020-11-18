@@ -1,0 +1,14 @@
+1- Git clone repositori personal: https://github.com/p3r1c0/HTML5EmptySiteTemplate --> https://github.com/USUARIGITHUBPERSONAL/HTML5EmptySiteTemplate
+	- Això des de una carpeta que coneguis on es. Exemple: Escritori
+2- cd HTML5EmptySiteTemplate --> Accedim a la carpeta (cd cas Unix)
+3- Modificam el fitxer index.html (amb un editor de texte)
+4- Guardau
+5- Pujar els canvis:
+	- git status (per veure el que s'ha modificat)
+		- veureu el index.html
+	- git add index.html
+	- git commit -m "Primer canvi"
+	- git push
+6- Ara teniu el codi actualitzat al repositori de Github
+7- Nam al portal d'azure, al centre d'implementació i veim com s'ha creat la versió.
+8- Clickam a explorar i confirmam que ha funcionat.
